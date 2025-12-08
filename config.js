@@ -17,28 +17,28 @@ import moment from 'moment-timezone'
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
  
 global.owner = [
-  ['5491124918653', ' 𝘊𝘳𝘦𝘢𝘥𝘰𝘳 🌾', true],
-  ['50231458537', 'BrayanX330 👑', true],
-  ['5491124918653', '𝐅𝐞𝐝𝐞 𝐔𝐜𝐡𝐢𝐡𝐚', true],
+  ['50231458537', '𝖧𝖺𝗌𝗁𝗂𝗋𝖺𝗆𝖺 𝘊𝘳𝘦𝘢𝘥𝘰𝘳 👑', true],
+  ['50492280729', '𝖹𝖾𝗎𝗌 👤', true],
+  ['525576284484', '𝖤.𝖳👤', true],
 ];
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.mods = ['5491124918653']
+global.mods = ['50231458537']
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = 'Shadow`S - IA'
-global.botname = '𝙎𝙝𝙖𝙙𝙤𝙬 - 𝘽𝙤𝙩'
-global.author = '🄲 𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺 𝘋𝘦𝘷-𝘧𝘦𝘥𝘦𝘹𝘺𝘻'
-global.dev = '🄲 𝘔𝘢𝘥𝘦 𝘣𝘺 𝘥𝘦𝘷-𝘧𝘦𝘥𝘦𝘹𝘺𝘻'
-global.textbot = 'Ｓｈａｄｏｗ`Ｓ - Ｂｏｔ'
+global.packname = '© 2021–2025 Itachi Project'
+global.botname = '🍃 𝐈 𝐓 𝐀 𝐂 𝐇 𝐈 - 𝐁 𝐎 𝐓 🍃'
+global.author = 'ⓒ Created | BrayanX330'
+global.dev = 'ⓒ Powered | BrayanX330'
+global.textbot = 'і𝗍ᥲᥴһі ᑲᥡ һᥲsһіrᥲmᥲ'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 // === INPORTANTE ===
-global.namew = 'Shadow`𝐒 - 𝐁𝐨𝐭'
-global.namev = '𝙎𝙝𝙖𝙙𝙤𝙬`𝙎 - 𝘽𝙤𝙩'
+global.namew = '✦ 𝖨𝖳𝖠𝖢𝖧𝖨 𝖡𝖮𝖳 - 𝖬𝖣 ✦'
+global.namev = '𝘐𝘛𝘈𝘊𝘏𝘐-𝘉𝘖𝘛 | 𝘉𝘙𝘈𝘠𝘈𝘕 𝘜𝘊𝘏𝘐𝘏𝘈'
 global.erorr = 'ᴇʀʀᴏʀ ɴᴏ ᴘᴜᴇᴅᴇs ᴜsᴀʀ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ 🚫'
 global.erorr1 = 'ᴅᴇɴᴇɢᴀᴅᴏ ɴᴏ ᴘᴜᴇᴅᴇs ᴜsᴀʀ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ 🚫'
 
@@ -49,19 +49,19 @@ global.baileys = 'V 6.7.17'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = 'Shadow - Bot'
-global.namebot = 'Shadow`S - Bot'
+global.nameqr = 'itachi bot md'
+global.namebot = 'uchiha-itachi'
 global.sessions = 'ItachiSessions'
 global.jadi = 'jadibts' 
 global.ItachiJadibts = true
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.moneda = 'Yenes' // moneda principal 
+global.moneda = 'Coins' // moneda principal 
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.catalogo = fs.readFileSync('./src/shadow.jpg');
+global.catalogo = fs.readFileSync('./thumbnail.jpg');
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
